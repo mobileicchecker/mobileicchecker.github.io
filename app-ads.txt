@@ -121,3 +121,4 @@ openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 openx.com, 565175463, RESELLER, 6a698e2ec38604c6
 targetbetter.com, 82228, RESELLER
 taurusx.com, 70097, RESELLER
+facebook.com, 1802435713587673, DIRECT, c3e20eee3f780d68
